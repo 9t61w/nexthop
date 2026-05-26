@@ -1,3 +1,6 @@
+NOTICE: THIS REPOSITORY HAS MOVED TO https://github.com/SupremeCommanderHedgehog/nexthop
+        ALL FUTURE UPDATES WILL BE FROM THAT LOCATION
+
 # nexthop
 
 A raw TCP/UDP relay with cross-protocol forwarding, multicast/broadcast support,
